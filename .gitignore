@@ -29,6 +29,4 @@ data.json
 
 # Logs
 *.log
-# Ignore sensitive password data
-data.json
 
